@@ -100,6 +100,7 @@ export const Repositories = styled.div`
       strong {
         font-size: 20px;
         color: #3d3d4d;
+        word-break: break-all;
       }
 
       p {
